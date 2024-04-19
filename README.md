@@ -1,7 +1,7 @@
-## REPO_DEF
-- [Main Page](https://somebody27.github.io/REPO_DEF/)
+## Blog
+- [Main Page](https://somebody27.github.io/blog_name[::]/)
 - [RSS Feed](https://raw.githubusercontent.com/somebody27/myblog/main/feed.xml)
-## [友情链接](https://github.com/somebody27/REPO_DEF/issues/16)
+## [友情链接](https://github.com/somebody27/myblog/issues/16)
 <details><summary>显示</summary>
 <table>
 <thead>
@@ -22,5 +22,5 @@
 
 
 ## 最近更新
-- [Note](https://github.com/somebody27/myblog/issues/16)--2024-04-19
+- [Note!](https://github.com/somebody27/myblog/issues/16)--2024-04-19
 - [Good Night](https://github.com/somebody27/myblog/issues/7)--2024-04-18
