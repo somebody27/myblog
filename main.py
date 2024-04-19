@@ -9,8 +9,7 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## myblog
-- [RSS Feed](https://raw.githubusercontent.com/somebody27/myblog/main/feed.xml)
+MD_HEAD = """## [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)"""
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
