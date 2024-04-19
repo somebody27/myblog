@@ -1,5 +1,5 @@
 ## Blog
-- [Main Page](https://somebody27.github.io/blog_name[::]/)
+- [Main Page](https://somebody27.github.io/myblog/)
 - [RSS Feed](https://raw.githubusercontent.com/somebody27/myblog/main/feed.xml)
 ## [友情链接](https://github.com/somebody27/myblog/issues/16)
 <details><summary>显示</summary>
