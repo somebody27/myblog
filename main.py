@@ -11,7 +11,7 @@ from marko.ext.gfm import gfm as marko
 
 REPO_DEF = 'myblog'
 
-MD_HEAD = """## {REPO_DEF}
+MD_HEAD = """## 
 - [Main Page](https://somebody27.github.io/{REPO_DEF}/)
 - [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)"""
 
