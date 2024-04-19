@@ -22,8 +22,5 @@
 
 
 ## 最近更新
-- [heart test yyy](https://github.com/somebody27/myblog/issues/16)--2024-04-19
-- [heart](https://github.com/somebody27/myblog/issues/15)--2024-04-19
-- [page again](https://github.com/somebody27/myblog/issues/14)--2024-04-19
-- [page](https://github.com/somebody27/myblog/issues/13)--2024-04-19
-- [feed](https://github.com/somebody27/myblog/issues/12)--2024-04-19
+- [heart](https://github.com/somebody27/myblog/issues/16)--2024-04-19
+- [Good Night](https://github.com/somebody27/myblog/issues/7)--2024-04-18
