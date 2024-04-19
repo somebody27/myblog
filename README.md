@@ -13,14 +13,18 @@
 </thead>
 <tbody>
 <tr>
-<td>兔子鮮笙</td>
-<td>https://tuzi.moe/</td>
-<td>22 岁的天才少年222</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table></details>
 
 
 ## 最近更新
-- [Note!](https://github.com/somebody27/myblog/issues/16)--2024-04-19
+- [Note!！](https://github.com/somebody27/myblog/issues/16)--2024-04-19
 - [Good Night](https://github.com/somebody27/myblog/issues/7)--2024-04-18
+## documentation
+- [Good Night](https://github.com/somebody27/myblog/issues/7)--2024-04-18
+## enhancement
+- [Note!！](https://github.com/somebody27/myblog/issues/16)--2024-04-19
