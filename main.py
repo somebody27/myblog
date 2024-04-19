@@ -9,9 +9,9 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-REPO_DEF = 'myblog'
+REPO_DEF = "myblog"
 
-MD_HEAD = """## 
+MD_HEAD = """## Blog
 - [Main Page](https://somebody27.github.io/{REPO_DEF}/)
 - [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)"""
 
