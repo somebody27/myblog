@@ -1,1 +1,2 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/somebody27/myblog</id><title>RSS feed of somebody27's myblog</title><updated>2024-04-19T03:29:39.755429+00:00</updated><author><name>somebody27</name><email>kenanzhge@gmail.com</email></author><link href="https://github.com/somebody27/myblog"/><link href="https://raw.githubusercontent.com/somebody27/myblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator></feed>
